@@ -1,0 +1,3 @@
+[submodule "vendor/modern-cmake-by-example"]
+	path = vendor/modern-cmake-by-example
+	url = https://github.com/richardchien/modern-cmake-by-example.git
